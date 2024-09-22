@@ -46,3 +46,14 @@ Membuat aplikasi ecommerce lengkap menggunakan Django versi 5
         deleted:    app/main/views.py
         modified:   config/settings.py
         modified:   config/urls.py
+
+#### 2. Membuat aplikasi shop
+
+        modified:   README.md
+        new file:   app/shop/__init__.py
+        new file:   app/shop/admin.py
+        new file:   app/shop/apps.py
+        new file:   app/shop/migrations/__init__.py
+        new file:   app/shop/models.py
+        new file:   app/shop/tests.py
+        new file:   app/shop/views.py
