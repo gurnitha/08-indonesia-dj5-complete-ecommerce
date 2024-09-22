@@ -32,3 +32,17 @@ Membuat aplikasi ecommerce lengkap menggunakan Django versi 5
 
 
 ## 2. PROYEK DAN APLIKSI DJANGO
+
+#### 1. Menghapus aplikasi main
+
+        modified:   README.md
+        deleted:    app/main/__init__.py
+        deleted:    app/main/admin.py
+        deleted:    app/main/apps.py
+        deleted:    app/main/migrations/__init__.py
+        deleted:    app/main/models.py
+        deleted:    app/main/tests.py
+        deleted:    app/main/urls.py
+        deleted:    app/main/views.py
+        modified:   config/settings.py
+        modified:   config/urls.py
