@@ -29,3 +29,6 @@ Membuat aplikasi ecommerce lengkap menggunakan Django versi 5
         2. Mengklon remote repositori.
         3. Mengklon snipet complete basics setup
         4. Setup environ variable.
+
+
+## 2. PROYEK DAN APLIKSI DJANGO
