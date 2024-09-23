@@ -1,5 +1,6 @@
 # 08-indonesia-dj5-complete-ecommerce
 Membuat aplikasi ecommerce lengkap menggunakan Django versi 5
+Github:https://github.com/gurnitha/08-indonesia-dj5-complete-ecommerce
 
 
 ## 1. SETUP
@@ -62,3 +63,10 @@ Membuat aplikasi ecommerce lengkap menggunakan Django versi 5
 
         modified:   app/shop/apps.py
         modified:   config/settings.py
+
+#### 4. Menampilkan Selamat Datang di INGShop
+
+        modified:   README.md
+        new file:   app/shop/urls.py
+        modified:   app/shop/views.py
+        modified:   config/urls.py
